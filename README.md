@@ -14,7 +14,7 @@ A Python bot that automates wood-cutting in an RSPS (RuneScape private server) s
 
 1. Install Python dependencies:
 
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 2. Install Tesseract OCR (required by `pytesseract`, not pip-installable): https://github.com/UB-Mannheim/tesseract/wiki
 3. Update `TESSERACT_PATH` and `CHAT_REGION` in `config.py` to match your own Tesseract install location and screen resolution.
