@@ -1,0 +1,6 @@
+opencv-python   # image processing: HSV masking, contour detection
+numpy           # array handling, used with opencv and mss
+mss             # fast screen capture
+pyautogui       # simulated mouse clicks
+keyboard        # global panic-key hotkey
+pytesseract     # OCR wrapper for reading chat log text

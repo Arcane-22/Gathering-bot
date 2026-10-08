@@ -1,0 +1,28 @@
+PANIC_KEY = "f12"
+START_DELAY = 5
+
+LOWER_GREEN = (28, 110, 5)
+UPPER_GREEN = (46, 255, 60)
+
+LOWER_BROWN = (12, 140, 30)
+UPPER_BROWN = (20, 190, 100)
+
+MIN_AREA = 5000
+MAX_AREA = 45000
+MIN_DENSITY = 0.3
+MIN_ASPECT = 0.6
+MAX_ASPECT = 1.6
+TRUNK_SEARCH_HEIGHT = 40
+MIN_TRUNK_PIXELS = 50
+
+CHOP_WAIT = 10
+RETRY_WAIT = 1
+
+TESSERACT_PATH = r"D:\Tesseract\tesseract.exe"
+
+CHAT_REGION = {
+    "top": 916,
+    "left": 2,
+    "width": 514,    
+    "height": 132     
+}
